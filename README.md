@@ -4,7 +4,7 @@ API CALL PROJECT
 
 THIS IS MY SIMPLE API_CALL (POST,GET,PUT,PATCH, AND DELETE)
 
-First, I created the API Call project using Composer in the Command Prompt. After creating the project, I opened it in Visual Studio Code and set up the database connection in the .env file. I also created the SQLite database file and ran the migration command to create the tables needed for the project.
+First, I created the API Call project using Composer in the Command Prompt. After creating the project, I opened it in VSCodium and set up the database connection in the .env file. I also created the SQLite database file and ran the migration command to create the tables needed for the project.
 
 Next, I started the Laravel server using php artisan serve to check if the project was working properly. After that, I created the Student model, controller, migration, and API routes for managing student data.
 
