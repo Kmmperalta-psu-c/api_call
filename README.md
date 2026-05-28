@@ -1,3 +1,29 @@
+KRISTINE MAE MENDEZ PERALTA
+
+API CALL PROJECT
+
+THIS IS MY SIMPLE API_CALL (POST,GET,PUT,PATCH, AND DELETE)
+
+First, I created the API Call project using Composer in the Command Prompt. After creating the project, I opened it in Visual Studio Code and set up the database connection in the .env file. I also created the SQLite database file and ran the migration command to create the tables needed for the project.
+
+Next, I started the Laravel server using php artisan serve to check if the project was working properly. After that, I created the Student model, controller, migration, and API routes for managing student data.
+
+I added different API methods such as GET, POST, PUT, PATCH, and DELETE. The GET method was used to display student data, POST was used to add new students, PUT and PATCH were used to update student information, and DELETE was used to remove student records from the database.
+
+After creating the API routes, I tested the API responses in the browser to make sure all requests were working correctly. Lastly, I initialized Git, added the project files, created a commit, connected the project to GitHub, and successfully pushed the API Call project to the repository.
+
+
+
+
+
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
